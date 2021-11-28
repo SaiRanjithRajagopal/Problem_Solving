@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Problem_Solving.LeetCode
 {
-    class Longest_Palindromic_Substring
+    class Linked_List_Cycle_II
     {
 
     }
